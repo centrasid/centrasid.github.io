@@ -107,6 +107,15 @@ a{
     margin:15px auto 20px;
     text-align:center;
 }
+
+.div-img2{
+    position:relative;
+    display:inline-block;
+    width:60%;
+    margin:15px auto 20px;
+    text-align:center;
+}
+
 .feature_title{
     position:relative;
     padding-bottom:10px;
