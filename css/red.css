@@ -24,6 +24,11 @@
 .divider{
     background: #00949B;
     }
+	
+	.divider2{
+    background: #fff;
+    }
+	
 .navbar-brand:hover{
     color:#00949B;
 }
@@ -33,7 +38,7 @@ ul.navbar-nav > .active > a{
 ul.navbar-nav > li > a:hover{
     color:#00949B!important;
 }
-ul.navbar-nav > .active > a,ul.navbar-nav > li > a:hover,.carousel-caption h4{
+ul.navbar-nav > .active > a,ul.navbar-nav > li > a:hover h4{
     color:#00949B!important;
 }
 .navbar-toggle .icon-bar{
@@ -63,6 +68,9 @@ ul.navbar-nav > .active> a:hover{
 
 .line{
     background: #00949B;
+}
+.line3{
+    background: #fff;
 }
 
 .btn-featured{
@@ -196,6 +204,7 @@ figcaption .links a:hover{
 .single-member h5 {
     color: #1F1F1F;
 }
+
 .line2{
     background: #00949B;
 }
